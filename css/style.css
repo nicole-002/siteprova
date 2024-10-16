@@ -1,0 +1,60 @@
+
+header{
+    background-color: blueviolet;
+}
+
+body{
+    background-color: rgb(85, 85, 85);
+}
+
+.bg-body-tertiary{
+    background-color: blueviolet;
+}
+
+.navbar{
+    background-color: blueviolet;
+}
+
+.bodymargem{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+section{
+    margin-bottom: 2%;
+}
+
+.imgcarrosel{
+    height: 40%;
+    width: 100%;
+}
+
+.imggato, .imgdois{
+    width: 100%;
+}
+
+.imgtres{
+    width: 82%;
+}
+
+footer{
+    padding: 3%;
+    text-align: center;
+    background-color: blueviolet;
+}
+
+.imgfooter{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    width: 40%;
+}
+
+.barra{
+    width: 50%;
+}
+
+.gridmodal{
+    width: 50%;
+}
